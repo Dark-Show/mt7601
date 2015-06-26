@@ -1,0 +1,5 @@
+config mt7601U
+	tristate "Mediatek 7601 USB WiFi"
+	depends on USB
+	---help---
+	  Help message of mt7601U
